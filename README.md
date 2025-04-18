@@ -3,7 +3,7 @@
 An automated backend platform based on GFS meteorological data and the STILT model for calculating atmospheric back-trajectories. It supports containerized deployment via Docker, scheduled tasks via Django + Celery, and provides APIs for retrieving simulation results.
 
 - 📘 [Learn more about STILT](https://uataq.github.io/stilt/#/install)  
-- 🌍 [Explore real-time air tracking](https://globalcleanair.org/air-tracker/map/)
+- 🌍 
 
 ---
 
