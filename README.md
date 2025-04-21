@@ -1,6 +1,6 @@
 # GFS-STILT Model
 
-An automated backend platform based on GFS meteorological data and the STILT model for calculating atmospheric back-trajectories. It supports containerized deployment via Docker, scheduled tasks via Django + Celery, and provides APIs for retrieving simulation results.
+An automated backward trajectory dispersion platform based on GFS meteorological data and the STILT model for identifying potential source area. It supports containerized deployment via Docker, scheduled tasks via Django + Celery, and provides APIs for retrieving simulation results.
 
 - 📘 [Learn more about STILT](https://uataq.github.io/stilt/#/install)  
 - 🌍 
