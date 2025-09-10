@@ -49,3 +49,7 @@ After registering, download the executables, unzip them, and copy to:
 build/bin/linux-gnu/
 ```
 Or place them directly into the Docker image under ${STILT_WD}/exe/.
+
+
+## 
+If you want to know more details of the docker, please contact airquality@cet.net.cn
